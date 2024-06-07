@@ -4,4 +4,4 @@ jar cmf manifest.txt SnakeGame.jar GameFrame.class backgroundingame.png GamePane
 
 Then install Launch4J to convert the jar file into an executable file.
 
-If you want just play, there is an .exe file prebuilt for you 😀
+If you just want to play, there is an .exe file prebuilt for you 😀
